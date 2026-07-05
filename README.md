@@ -105,6 +105,4 @@ JavidTech-Responsive-Business-Website/
 
 ---
 
-## License
-
-This project is developed for educational and internship purposes.
+JavidTech Responsive Business Website is a modern, responsive multi-page business website developed using HTML5, CSS3, Flexbox, Grid, and Media Queries. The project demonstrates responsive web design principles with a professional user interface that adapts seamlessly across desktop, tablet, and mobile devices. It includes Home, About, Services, Gallery, and Contact pages, making it an excellent frontend development portfolio project and internship submission.
